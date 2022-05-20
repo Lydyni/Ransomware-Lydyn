@@ -7,3 +7,4 @@ thank you feel free to join the discord discord.gg/lydyni
 
 
 
+![ranson](https://user-images.githubusercontent.com/105178805/169431585-356e218e-970c-414c-b452-09b340ce20fc.png)
