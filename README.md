@@ -1,2 +1,9 @@
 # Ransomware-Lydyn
-Hello my name is Lydyni and i code in JS PY PHP C# C++ i made this program for educational purposes only but you can use this for what ever you would like.. Make sure to join my discord for support discord.gg/lydyni. 
+Hello my name is dyni I made this project in python ofc. this is a very basic ransom ware project made in python very simple but affective Do not be some skid and send to someone and do stupid things with this... It is still very dangerous... if you have any bugs or find anything wrong with this ransom ware feel free to make a pull request or a bug request in my discord discord.gg/lydyni
+
+
+and make sure you run this on a vm or remote desktop vps server what ever do not run this on your main windows 10!!! 
+thank you feel free to join the discord discord.gg/lydyni
+
+
+
